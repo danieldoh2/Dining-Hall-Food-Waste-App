@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4777C01F-A072-4009-B8AA-1B3B23042B7F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clock-In/QRcodeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B - e5c00ff9cdbc0d62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock_In.QRcodeViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Clock_In.QRcodeViewController"
+                  moduleName = "Clock-In"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamlee/Desktop/saved%E6%8B%B7%E8%B2%9D/Clock-In/QRcodeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B - 8adeb5385c526a09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock_In.QRcodeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Clock_In.QRcodeViewController"
+                  moduleName = "Clock-In"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamlee/Desktop/saved%E6%8B%B7%E8%B2%9D/Clock-In/QRcodeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B - ec5deca452c9576a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock_In.QRcodeViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Clock_In.QRcodeViewController&gt;"
+                  moduleName = "Clock-In"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamlee/Desktop/saved%E6%8B%B7%E8%B2%9D/Clock-In/QRcodeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B - e9287df1d5801bd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock_In.QRcodeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Clock_In.QRcodeViewController&gt;"
+                  moduleName = "Clock-In"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamlee/Desktop/saved%E6%8B%B7%E8%B2%9D/Clock-In/QRcodeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "E566D010-BF42-4D4A-9FD7-FB0F850D2A2B - f8741c5873ac1063"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock_In.QRcodeViewController.__deallocating_deinit"
+                  moduleName = "Clock-In"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamlee/Desktop/saved%E6%8B%B7%E8%B2%9D/Clock-In/QRcodeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
