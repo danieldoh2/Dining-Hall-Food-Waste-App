@@ -19,9 +19,16 @@ for recipe in recipes:
 
 print(CaloriesList)
 
-
+a = ""
 food = input("Please enter in your food item: ")
 for i in range(len(CaloriesList)):
     if (food == CaloriesList[i][0]):
-        print(CaloriesList[i][1])
-        break
+        a = CaloriesList[i][1]
+        if (a == None):
+            print(0)
+            break
+        print(int(CaloriesList[i][1]))
+
+
+
+
