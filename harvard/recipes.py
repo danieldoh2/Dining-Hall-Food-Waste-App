@@ -8,4 +8,6 @@ recipes = response.json()
 
 # Print each recipe's name
 for recipe in recipes:
-    print(recipe["name"], "           | calories: ", recipe["calories"])
+    print(recipe["name"])
+    print("calories: ", recipe["calories"])
+    print()
