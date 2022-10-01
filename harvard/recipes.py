@@ -6,10 +6,8 @@ response = requests.get("https://api.cs50.io/dining/recipes")
 # Convert JSON to list of dicts
 recipes = response.json()
 
-CaloriesList = []
-rows, cols =  len(recipes),len(recipes)
-
-CaloriesList = [[cols]rows]
+CaloriesList = [] 
+rows, cols =  len(recipes), 2
 
 # Print each recipe's name
 for recipe in recipes:
@@ -17,10 +15,12 @@ for recipe in recipes:
     print(recipe["name"])
     print("calories: ", recipe["calories"])
     
-    
 
-    CaloriesList += [calorieslist["Name"], calorieslist["Calories"]]
+    CaloriesList += [[recipe["name"], recipe["calories"]]]
 
 print()
-print(CaloriesList)
+print ()
+print()
+print(int(CaloriesList[1][1]))
+
 
