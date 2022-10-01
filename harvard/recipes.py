@@ -15,12 +15,8 @@ for recipe in recipes:
     print(recipe["name"])
     print("calories: ", recipe["calories"])
     
-
     CaloriesList += [[recipe["name"], recipe["calories"]]]
 
-print()
-print ()
-print()
-print(int(CaloriesList[1][1]))
+print(CaloriesList)
 
 
