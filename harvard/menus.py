@@ -8,3 +8,6 @@ menu = response.json()
 
 # Print number of recipes on menu
 print(len(menu))
+
+for key in menu:
+    print(key["recipe"])
