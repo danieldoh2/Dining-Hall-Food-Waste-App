@@ -17,6 +17,6 @@ for recipe in recipes:
     
     CaloriesList += [[recipe["name"], recipe["calories"]]]
 
-print(CaloriesList)
+print(CaloriesList[1])
 
 

@@ -20,7 +20,8 @@ for recipe in recipes:
 print(CaloriesList)
 
 
-username = input("Please enter in your username: ")
-for i in range(len(calorieslist)):
-    if (username == CaloriesList[i]):
+food = input("Please enter in your food item: ")
+for i in range(len(CaloriesList)):
+    if (food == CaloriesList[i][0]):
         print(CaloriesList[i][1])
+        break
