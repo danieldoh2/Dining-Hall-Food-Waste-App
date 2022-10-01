@@ -63,6 +63,9 @@ ourmodel = LinearRegression()
 #Creating our data splits
 X_train, X_test, y_train, y_test = train_test_split(newdf, wastedf, test_size=0.3, random_state=101)
 
+#Training the model
+ourmodel.fit(X_train, y_train)
+
 #Function that predicts whether or not you will waste food with an arbitrary set of 
 # values of independent variables.
 
